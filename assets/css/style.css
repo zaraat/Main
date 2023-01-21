@@ -895,12 +895,14 @@ section {
   background: #5969f3;
 }
 
-.footer .footer-top {
+@media (min-width:100px) { .footer .footer-top {
   background: white url(../img/World\ Map.svg) no-repeat right top;
   background-size: contain;
   /* border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff; */
   padding: 60px 10 30px ;
+}
+
 }
 
 @media (max-width: 992px) {
