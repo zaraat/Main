@@ -561,6 +561,7 @@ section {
 # Values
 --------------------------------------------------------------*/
 .values .box {
+  margin-top: 10px;
   padding: 30px;
   box-shadow: 0px 0 5px rgba(1, 41, 112, 0.08);
   text-align: center;
@@ -587,6 +588,12 @@ section {
 
 .values .box:hover img {
   transform: scale(1);
+}
+
+.values {
+  /* margin: 100px; */
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 /*--------------------------------------------------------------
@@ -742,6 +749,10 @@ section {
 
 .services .service-box:hover .icon {
   background: #fff;
+}
+
+.services {
+  margin-bottom: 100px;
 }
 
 /*--------------------------------------------------------------
