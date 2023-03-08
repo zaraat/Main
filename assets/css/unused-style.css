@@ -1318,3 +1318,6 @@
     font-size: 14px;
   }
     
+  .footer .footer-newsletter form input[type=submit]:hover {
+    background: #5969f3;
+  }
