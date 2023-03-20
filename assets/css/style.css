@@ -1009,7 +1009,7 @@ section {
 
 
 @media (min-width:900px) { .footer .footer-top {
-  background: white url(../img/World\ Map.svg) no-repeat right top;
+  /* background: white url(../img/World\ Map.svg) no-repeat right top; */
   background-size: contain;
   /* border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff; */
